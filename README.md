@@ -10,9 +10,12 @@ samtools
 sambamba (optional)
 
 ## Usage:
-1. Get help
+Get help
+
 python /your/path/to/PAVGene/main.py --help
+
 $ python /share//nas1/smp1/tifu/scripts/PAVGenV2/main.py --help
+
 usage: main.py [-h] -g GTF [-d DEPTH] [-t IS_TRANSCRIPT] [-f FILTER_DEPTH]
                [-s SAMBAMBA_DIR] [-m SAMTOOLS_DIR] [-z SAMTOOLS_ONLY]
                [-x THREADS] [-b BAM] [-i SORTED_BAM] [-o OUT_DIR] [-p PREFIX]
