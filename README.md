@@ -66,4 +66,4 @@ optional arguments:
                         
 
 ## use with bam
-python /share//nas1/smp1/tifu/scripts/PAVGenV2/main.py -g path/to/gtf -b bam -p prefix
+python /share/nas1/smp1/tifu/scripts/PAVGenV2/main.py -g path/to/gtf -b bam -p prefix
