@@ -2,7 +2,12 @@
 Calculating gene coverage using aligned file.
 ## Dependencies
 python >= 3
+
 pandas
+
+samtools
+
+sambamba (optional)
 
 ## Usage:
 1. Get help
